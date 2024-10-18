@@ -1,0 +1,5 @@
+/build
+/dist
+/venv
+/.vscode
+/_pycache_

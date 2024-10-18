@@ -2,7 +2,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/G4brielXavier/Inputron)
 
 
-# Installing
+### Installing
 
 ```bash
 
@@ -10,7 +10,7 @@ pip install Inputron
 
 ```
 
-# Using
+### Using
 
 ```python
 
@@ -19,7 +19,7 @@ from Inputron import Inputron
 inputron = Inputron()
 ```
 
-# Inputron Library
+### Inputron Library
 
 <details>
     <summary>Inputron.Message</summary>
@@ -125,7 +125,7 @@ inputron = Inputron()
 
 
 
-# Contributing
+### Contributing
 
 1. Do a fork of Repository.
 

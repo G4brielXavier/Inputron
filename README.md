@@ -127,18 +127,18 @@ inputron = Inputron()
 
 # Contributing
 
-    1. Do a fork of Repository.
+1. Do a fork of Repository.
 
-    2. Create a branch to your feature 
-        git checkout -b features/feature_name
+2. Create a branch to your feature 
+    `git checkout -b features/feature_name`
 
-    3. Do commits of your changes
-        git commit -am 'feature name'
+3. Do commits of your changes
+    `git commit -am 'feature name'`
 
-    4. Send to the branch
-        git push origin features/feature_name
+4. Send to the branch
+    `git push origin features/feature_name`
 
-    5. Open a Pull Request 
+5. Open a Pull Request 
 
 # License
 
